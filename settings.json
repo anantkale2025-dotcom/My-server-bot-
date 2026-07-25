@@ -6,7 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ghatotkachserver.minekeep.gg",
+    "ip": "janta.bulknodes.xyz",
+    "port" : "20315",
     "version": "1.21.11",
     "try-creative": false
   },
