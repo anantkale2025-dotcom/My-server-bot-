@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "localhost",
+    "ip": "approved-coding.gl.joinmc.link",
     "version": "1.21.11",
     "try-creative": false
   },
