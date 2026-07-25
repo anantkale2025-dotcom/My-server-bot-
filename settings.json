@@ -6,9 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "approved-coding.gl.joinmc.link",
-    "port": 25565,
-    "version": "",
+    "ip": "ghatotkachserver.minekeep.gg",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
