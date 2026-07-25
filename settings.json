@@ -6,7 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "approved-coding.gl.joinmc.link",
+    "ip": "127.0.0.1:25565",
+    "port" : "25565",
     "version": "1.21.11",
     "try-creative": false
   },
