@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "janta.bulknodes.xyz",
-    "port" : "20315",
+    "ip": "cnet-lightbox.gl.joinmc.link",
     "version": "1.21.11",
     "try-creative": false
   },
